@@ -1,3 +1,3 @@
 # multibranch-pipeline-demo
 Jenkins Multibranch Pipeline Example Repo
-//Test 1
+//Assignment 2 video example
